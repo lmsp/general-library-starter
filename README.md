@@ -8,6 +8,8 @@ Librería básica punto de partida para otras librerías
 
 ## Instalación
 
+  `yarn add general-library-starter`
+
 ## Uso
 
 ## Test
