@@ -1,5 +1,6 @@
 {
   "extends": ["standard", "standard-flow"],
+  "comma-dangle": ["error", "never"],
   "env": {
     "jest": true
   }
