@@ -6,11 +6,11 @@ const isDebug = !process.argv.includes('-p')
 
 // Desarrollo
 const publicPathDev = '/'
-const libraryNameDev = 'bundle.js'
+const libraryNameDev = 'general-library-starter.js'
 
 // Productivo
 const publicPathProd = '/'
-const libraryNameProd = 'bundle.min.js'
+const libraryNameProd = 'general-library-starter.min.js'
 
 let config = {
   plugins: [
