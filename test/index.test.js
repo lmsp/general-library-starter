@@ -1,4 +1,5 @@
 /* eslint-env jest */
+/* global test */
 /* @flow */
 import Index from '../src/index'
 

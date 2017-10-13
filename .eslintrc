@@ -1,8 +1,5 @@
 {
   "extends": ["standard", "standard-flow"],
-  "globals": {
-    "test": true
-  },
   "env": {
     "jest": true
   }
