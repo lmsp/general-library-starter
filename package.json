@@ -21,6 +21,7 @@
     "babel-loader": "^6.4.1",
     "babel-preset-flow": "^6.23.0",
     "babel-preset-latest": "^6.24.1",
+    "bithound": "^1.7.0",
     "coveralls": "^3.0.0",
     "eslint": "^3.19.0",
     "eslint-config-standard": "^10.2.1",
