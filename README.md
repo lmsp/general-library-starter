@@ -25,6 +25,9 @@ Librería básica punto de partida para otras librerías
 
 ## Uso
 
+Esta librería sirve como ejemplo base para generar otras librerías de código
+abierto publicadas en GitHub.
+
 ## Test
 
   `yarn test`
