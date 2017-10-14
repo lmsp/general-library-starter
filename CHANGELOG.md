@@ -1,3 +1,9 @@
+#### 1.0.1 (2017-10-14)
+
+##### Build System / Dependencies
+
+* **app:** Añadir fichero .npmignore ([6ac42dec](https://github.com/lmsp/general-library-starter/commit/6ac42dec214921e0d45f794aa5321e53a1be971c))
+
 ## 1.0.0 (2017-10-14)
 
 ##### Build System / Dependencies
