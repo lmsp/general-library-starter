@@ -1,7 +1,7 @@
 {
   "name": "general-library-starter",
   "author": "Luis Miguel Santamaría Pérez",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Libraría base",
   "main": "dist/general-library-starter.js",
   "license": "MIT",
