@@ -1,3 +1,9 @@
+#### 0.0.3 (2017-10-14)
+
+##### Bug Fixes
+
+* **build:** Corregir publicación en npm ([5e167f65](https://github.com/lmsp/general-library-starter/commit/5e167f65582c956e4cbd029132aeceb8bfb94daa))
+
 #### 0.0.2 (2017-10-14)
 
 ##### Chores
