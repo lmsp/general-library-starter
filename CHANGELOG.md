@@ -1,3 +1,9 @@
+## 1.0.0 (2017-10-14)
+
+##### Build System / Dependencies
+
+* **app:** Actualizar dependencias ([859b9615](https://github.com/lmsp/general-library-starter/commit/859b9615568a84b31513f54ef96c0595beac9b44))
+
 ### 0.1.0 (2017-10-14)
 
 ##### Build System / Dependencies
