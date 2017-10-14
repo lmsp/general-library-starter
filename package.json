@@ -45,9 +45,9 @@
     "dev": "webpack --config ./webpack.config.js",
     "test": "jest",
     "cover": "jest --coverage && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
-    "release:minor": "changelog -m && git add CHANGELOG.md && git commit -m 'Actualizar CHANGELOG.md' && npm version minor && git push origin master --tags && npm publish",
-    "release:major": "changelog -M && git add CHANGELOG.md && git commit -m 'Actualizar CHANGELOG.md' && npm version major && git push origin master --tags && npm publish",
-    "release:patch": "changelog -p && git add CHANGELOG.md && git commit -m 'Actualizar CHANGELOG.md' && npm version patch && git push origin master --tags && npm publish"
+    "release:minor": "changelog -m && git add CHANGELOG.md && git commit -m 'Actualizar CHANGELOG.md' && npm version minor && git push origin master --tags && sudo npm publish",
+    "release:major": "changelog -M && git add CHANGELOG.md && git commit -m 'Actualizar CHANGELOG.md' && npm version major && git push origin master --tags && sudo npm publish",
+    "release:patch": "changelog -p && git add CHANGELOG.md && git commit -m 'Actualizar CHANGELOG.md' && npm version patch && git push origin master --tags && sudo npm publish"
   },
   "dependencies": {},
   "repository": {
