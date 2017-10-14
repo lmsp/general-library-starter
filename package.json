@@ -1,14 +1,14 @@
 {
   "name": "general-library-starter",
   "author": "Luis Miguel Santamaría Pérez",
-  "version": "0.1.1",
+  "version": "0.0.0",
   "description": "Libraría base",
   "main": "dist/general-library-starter.js",
   "license": "MIT",
   "babel": {
     "presets": [
       "flow",
-      "latest"
+      "env"
     ]
   },
   "engines": {
@@ -33,9 +33,9 @@
     "eslint-plugin-standard": "^3.0.1",
     "file-loader": "^1.1.5",
     "flow-bin": "^0.56.0",
+    "generate-changelog": "^1.5.0",
     "happypack": "^4.0.0",
     "jest": "^21.2.1",
-    "semantic-release": "^8.0.3",
     "source-map-loader": "^0.2.1",
     "url-loader": "^0.6.2",
     "webpack": "^3.7.1"
@@ -45,7 +45,9 @@
     "dev": "webpack --config ./webpack.config.js",
     "test": "jest",
     "cover": "jest --coverage && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "release:major": "changelog -M && git add CHANGELOG.md && git commit -m 'Actualizar CHANGELOG.md' && npm version major && git push origin && git push origin --tags",
+    "release:minor": "changelog -m && git add CHANGELOG.md && git commit -m 'Actualizar CHANGELOG.md' && npm version minor && git push origin && git push origin --tags",
+    "release:patch": "changelog -p && git add CHANGELOG.md && git commit -m 'Actualizar CHANGELOG.md' && npm version patch && git push origin && git push origin --tags"
   },
   "dependencies": {},
   "repository": {

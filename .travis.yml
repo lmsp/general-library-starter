@@ -10,7 +10,6 @@ script:
   - npm run cover
 
 after_success:
-  - npm run semantic-release
   - bithound check git@github.com:lmsp/general-library-starter.git
 
 branches:
