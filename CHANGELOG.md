@@ -1,3 +1,9 @@
+#### 0.0.2 (2017-10-14)
+
+##### Chores
+
+* **build:** Actualizar publicación en npm ([b43780aa](https://github.com/lmsp/general-library-starter/commit/b43780aa8f7a4bfda70096ca3a0270c9b3b48475))
+
 #### 0.0.1 (2017-10-14)
 
 ##### Chores
