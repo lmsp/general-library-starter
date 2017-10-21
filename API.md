@@ -7,13 +7,13 @@
 
 ## Index
 
-[src/index.js:5-16](https://github.com/lmsp/general-library-starter/blob/9ef11ad265df1531db959fc78968e81ca7d2e18f/src/index.js#L5-L16 "Source code on GitHub")
+[src/index.js:5-16](https://github.com/lmsp/general-library-starter/blob/192bfcde252c9458f19b995e9f6cede7563970ea/src/index.js#L5-L16 "Source code on GitHub")
 
 Un objeto Index
 
 ### name
 
-[src/index.js:13-15](https://github.com/lmsp/general-library-starter/blob/9ef11ad265df1531db959fc78968e81ca7d2e18f/src/index.js#L13-L15 "Source code on GitHub")
+[src/index.js:13-15](https://github.com/lmsp/general-library-starter/blob/192bfcde252c9458f19b995e9f6cede7563970ea/src/index.js#L13-L15 "Source code on GitHub")
 
 Devuelve un nombre
 
