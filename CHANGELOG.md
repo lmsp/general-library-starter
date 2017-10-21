@@ -1,3 +1,13 @@
+### 1.1.0 (2017-10-21)
+
+##### Chores
+
+* **app:** Añadir proceso de documentación automático ([9ef11ad2](https://github.com/lmsp/general-library-starter/commit/9ef11ad265df1531db959fc78968e81ca7d2e18f))
+
+##### Documentation Changes
+
+* **app:** Actualizar documentación ([de2ff14e](https://github.com/lmsp/general-library-starter/commit/de2ff14e5c76d8e97f8c5215a1ab41ed5bd0fd43))
+
 #### 1.0.1 (2017-10-14)
 
 ##### Build System / Dependencies
